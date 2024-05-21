@@ -1,0 +1,8 @@
+//Detects URLs in regkey RegistryValueData
+//Author:kddx017831
+DeviceRegistryEvents
+| where RegistryValueData contains "http://"
+|where RegistryValueData !contains "PacProxyScript" and RegistryValueData !contains "PrintService"
+|summarize dcount(DeviceName),make_set(DeviceName),make_set(InitiatingProcessFileName) by RegistryValueData
+|where dcount_DeviceName < 2
+|sort by dcount_DeviceName asc 
