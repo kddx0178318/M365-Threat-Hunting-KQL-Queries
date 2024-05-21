@@ -37,7 +37,7 @@ We welcome contributions from the community! If you have a new query, enhancemen
 ## License
 This project is licensed under the MIT License - see the  [LICENSE](LICENSE) file for details.
 
-##Contact
+## Contact
 For questions, feedback, or support, please open an issue on GitHub or reach out to the repository maintainers.
 
 Happy threat hunting!
