@@ -26,7 +26,7 @@ Welcome to the **M365 Threat Hunting KQL Queries** repository! This repository c
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/M365-Threat-Hunting-KQL-Queries.git
+   git clone https://github.com/kddx0178318/M365-Threat-Hunting-KQL-Queries.git
 2. **Explore the Queries:** Navigate to the /Queries directory and review the available KQL queries.
 3. **Run a Query:** Follow the instructions in the documentation to execute a query against your M365 data.
 4. **Customize and Extend:** Modify existing queries or create new ones to fit your specific threat hunting needs.
