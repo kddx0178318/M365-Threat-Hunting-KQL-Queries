@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the  [LICENSE](LICENSE) fil
 
 ## Disclaimer and Terms
 
-Please review the [DISCLAIMER](DISCLAIMER.md) and [TERMS AND CONDITIONS](TERMS_AND_CONDITIONS.md) before using this repository.
+Please review the [DISCLAIMER](TERMS_AND_CONDITIONS.md) and [TERMS AND CONDITIONS](TERMS_AND_CONDITIONS.md) before using this repository.
 
 
 ## Contact
